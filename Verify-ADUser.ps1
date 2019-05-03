@@ -1,4 +1,4 @@
-﻿#Write-Host "Server Monitoring Script v0.7.2"
+﻿#Write-Host "Server Monitoring Script v0.7.4"
 $stdDate = Get-Date
 Write-Host Script started on: $stdDate
 
